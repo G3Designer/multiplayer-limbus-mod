@@ -78,3 +78,4 @@ crashlytics-build.properties
 *.exe
 UnityPlayer.dll
 /LimbusCompany_Data
+GameAssembly.dll
