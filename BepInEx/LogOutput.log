@@ -1,0 +1,363 @@
+[Message: Preloader] BepInEx 6.0.0-be.577 - LimbusCompany
+[Message: Preloader] BLEEDING EDGE Build #577 from ec79ad057b20c302c17b34e63906ee398352d852 at master
+[Info   :   BepInEx] System platform: Windows 10 64-bit
+[Info   :   BepInEx] Process bitness: 64-bit (x64)
+[Info   : Preloader] Running under Unity v2021.3.28
+[Info   : Preloader] 0 patcher plugins loaded
+[Info   : Preloader] 0 assemblies discovered
+[Message:AssemblyPatcher] Executing 0 patch(es)
+[Message:   BepInEx] Chainloader initialized
+[Warning:Unhollower] Class::Init signatures have been exhausted, using il2cpp_class_has_references as a substitute!
+[Info   :Unhollower] Registered mono type UnhollowerRuntimeLib.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
+[Info   :   BepInEx] 1 plugin to load
+[Info   :   BepInEx] Loading [Lethe 1.0.8]
+[Info   :     Lethe] Using private server: https://api.lethelc.site/
+[Info   :Unhollower] Registered mono type Lethe.LetheHooks in il2cpp domain
+[Info   :Unhollower] Registered mono type BepInEx.IL2CPP.Utils.Collections.Il2CppManagedEnumerator in il2cpp domain
+[Info   :     Lethe] Starting HTTP server at 39265...
+[Info   :     Lethe] Started HTTP server at 39265...
+[Info   :Unhollower] Registered mono type Lethe.Patches.Request in il2cpp domain
+[Info   :Unhollower] Registered mono type Lethe.Patches.BattleLog in il2cpp domain
+[Info   :Unhollower] Registered mono type Lethe.SkillAbility.NewEvadeThenUseSkill in il2cpp domain
+[Info   :Unhollower] Registered mono type Lethe.SkillAbility.ChangeCounterOnConditional in il2cpp domain
+[Info   :Unhollower] Registered mono type Lethe.SkillAbility.ChangeSkillOnConditional in il2cpp domain
+[Info   :Unhollower] Registered mono type Lethe.SkillAbility.CustomFurioso in il2cpp domain
+[Info   :Unhollower] Registered mono type Lethe.Patches.Data in il2cpp domain
+[Info   :Unhollower] Registered mono type Lethe.Patches.Fixes in il2cpp domain
+[Info   :     Lethe] Found abno type AbnoramlityAppearance_8556
+[Info   :     Lethe] Found abno type AbnormalityAppearance_8001
+[Info   :     Lethe] Found abno type AbnormalityAppearance_8002
+[Info   :     Lethe] Found abno type AbnormalityAppearance_8003
+[Info   :     Lethe] Found abno type AbnormalityAppearance_8004
+[Info   :     Lethe] Found abno type AbnormalityAppearance_8005
+[Info   :     Lethe] Found abno type AbnormalityAppearance_8006
+[Info   :     Lethe] Found abno type AbnormalityAppearance_8007
+[Info   :     Lethe] Found abno type AbnormalityAppearance_8008
+[Info   :     Lethe] Found abno type AbnormalityAppearance_8009
+[Info   :     Lethe] Found abno type AbnormalityAppearance_8161
+[Info   :     Lethe] Found abno type AbnormalityAppearance_8390
+[Info   :     Lethe] Found abno type AbnormalityAppearance_8550
+[Info   :     Lethe] Found abno type AbnormalityAppearance_8555
+[Info   :     Lethe] Found abno type AbnormalityAppearance_8560
+[Info   :     Lethe] Found abno type AbnormalityAppearance_8577
+[Info   :     Lethe] Found abno type AbnormalityAppearance_8585
+[Info   :     Lethe] Found abno type AbnormalityAppearance_8604
+[Info   :     Lethe] Found abno type AbnormalityAppearance_8605
+[Info   :     Lethe] Found abno type AbnormalityAppearance_8606
+[Info   :     Lethe] Found abno type AbnormalityAppearance_8608
+[Info   :     Lethe] Found abno type AbnormalityAppearance_8628
+[Info   :     Lethe] Found abno type AbnormalityAppearance_8629
+[Info   :     Lethe] Found abno type AbnormalityAppearance_Chicken_Chef
+[Info   :     Lethe] Found abno type AbnormalityAppearance_CrabBoss
+[Info   :     Lethe] Found abno type AbnormalityAppearance_Cromer1p
+[Info   :     Lethe] Found abno type AbnormalityAppearance_Cromer2p
+[Info   :     Lethe] Found abno type AbnormalityAppearance_CryingToad
+[Info   :     Lethe] Found abno type AbnormalityAppearance_DontCry
+[Info   :     Lethe] Found abno type AbnormalityAppearance_ElectricCentipede
+[Info   :     Lethe] Found abno type AbnormalityAppearance_EnhancedMan
+[Info   :     Lethe] Found abno type AbnormalityAppearance_FairyLantern
+[Info   :     Lethe] Found abno type AbnormalityAppearance_FairyLongLegs
+[Info   :     Lethe] Found abno type AbnormalityAppearance_GentleFairy
+[Info   :     Lethe] Found abno type AbnormalityAppearance_kqe1j23
+[Info   :     Lethe] Found abno type AbnormalityAppearance_LightningBeast
+[Info   :     Lethe] Found abno type AbnormalityAppearance_NothingThere
+[Info   :     Lethe] Found abno type AbnormalityAppearance_RedBuddha
+[Info   :     Lethe] Found abno type AbnormalityAppearance_SantaOgre
+[Info   :     Lethe] Found abno type AbnormalityAppearance_Snake
+[Info   :     Lethe] Found abno type AbnormalityAppearance_UmbrellaFox
+[Info   :     Lethe] Found abno type AbnormalityAppearance_WaterFish
+[Info   :     Lethe] Found abno type AbnormalityAppearance_kqe1j23Hand
+[Info   :     Lethe] Found abno type SD.AbnormalityAppearance_8100
+[Info   :     Lethe] Found abno type SD.AbnormalityAppearance_8101
+[Info   :     Lethe] Found abno type SD.AbnormalityAppearance_8102
+[Info   :     Lethe] Found abno type SD.AbnormalityAppearance_8103
+[Info   :     Lethe] Found abno type SD.AbnormalityAppearance_8107
+[Info   :     Lethe] Found abno type SD.AbnormalityAppearance_8108
+[Info   :     Lethe] Found abno type SD.AbnormalityAppearance_8160
+[Info   :     Lethe] Found abno type SD.AbnormalityAppearance_8165
+[Info   :     Lethe] Found abno type SD.AbnormalityAppearance_8166
+[Info   :     Lethe] Found abno type SD.AbnormalityAppearance_8174
+[Info   :     Lethe] Found abno type SD.AbnormalityAppearance_8192
+[Info   :     Lethe] Found abno type SD.AbnormalityAppearance_8277
+[Info   :     Lethe] Found abno type SD.AbnormalityAppearance_8279
+[Info   :     Lethe] Found abno type SD.AbnormalityAppearance_8578
+[Info   :     Lethe] Patching UnityEngine.PlayerPrefs#SetInt
+[Info   :     Lethe] Patching UnityEngine.PlayerPrefs#SetFloat
+[Info   :     Lethe] Patching UnityEngine.PlayerPrefs#SetString
+[Info   :Unhollower] Registered mono type Lethe.Patches.Login in il2cpp domain
+[Info   :Unhollower] Registered mono type Lethe.Patches.Server in il2cpp domain
+[Info   :Unhollower] Registered mono type Lethe.Patches.Skin in il2cpp domain
+[Info   :Unhollower] Registered mono type Lethe.Patches.Texture in il2cpp domain
+[Info   :Unhollower] Registered mono type Lethe.SkillAbility.ChangeAppearance in il2cpp domain
+[Info   :Unhollower] Registered mono type Lethe.Passives.ChangeAppearance_Passive in il2cpp domain
+[Info   :Unhollower] Registered mono type Lethe.SkillAbility.ChangeSkillMotion in il2cpp domain
+[Info   :Unhollower] Registered mono type Lethe.Patches.Skills in il2cpp domain
+[Info   :     Lethe] Patching assets...
+[Info   :     Lethe] No .carra file found.
+[Message:   BepInEx] Chainloader startup complete
+[Info   :     Lethe] No .bank file found, skip sound replacing process.
+[Info   :     Lethe] Request: OPTIONS /auth/login
+[Info   :     Lethe] Request: POST /auth/login
+[Info   :     Lethe] Request: /auth/login
+[Info   :     Lethe] SteamClient init intercepted
+[Info   :     Lethe] Starting game
+[Info   :     Lethe] Starting game
+[Info   :     Lethe] Starting game
+[Info   :     Lethe] Saving abnormality-event
+[Info   :     Lethe] Saving assistant
+[Info   :     Lethe] Saving abnormality-part
+[Info   :     Lethe] Saving abnormality-unit
+[Info   :     Lethe] Saving banner
+[Info   :     Lethe] Saving buff
+[Info   :     Lethe] Saving panic-buff
+[Info   :     Lethe] Saving faction-buff
+[Info   :     Lethe] Saving part
+[Warning:     Lethe] ADDED PLAYGROUND
+[Info   :     Lethe] Saving character
+[Info   :     Lethe] Saving common-data
+[Info   :     Lethe] Saving ego
+[Info   :     Lethe] Saving ego-gift
+[Info   :     Lethe] Saving ego-gift-mirrordungeon
+[Info   :     Lethe] Saving enemy
+[Info   :     Lethe] Saving gacha
+[Info   :     Lethe] Saving item
+[Info   :     Lethe] Saving passive
+[Info   :     Lethe] Saving personality-passive
+[Info   :     Lethe] Saving personality
+[Info   :     Lethe] Saving skill
+[Info   :     Lethe] Saving battle-story
+[Info   :     Lethe] Saving battle-dungeon
+[Info   :     Lethe] Saving battle-ab
+[Info   :     Lethe] Saving battle-mirrordungeon
+[Info   :     Lethe] Saving stagenodereward
+[Info   :     Lethe] Saving story
+[Info   :     Lethe] Saving dungeon
+[Info   :     Lethe] Saving team-position
+[Info   :     Lethe] Saving vending-machine
+[Info   :     Lethe] Saving chance
+[Info   :     Lethe] Saving iap-pricetier
+[Info   :     Lethe] Saving iap-product
+[Info   :     Lethe] Saving ig-product
+[Info   :     Lethe] Saving paidshop-ui
+[Info   :     Lethe] Saving return-policy-table
+[Info   :     Lethe] Saving ui
+[Info   :     Lethe] Saving dungeonMap
+[Info   :     Lethe] Saving dungeonEvent
+[Info   :     Lethe] Saving mirrordungeon
+[Info   :     Lethe] Saving mirrordungeon-encounterinfo
+[Info   :     Lethe] Saving mirrordungeon-global-encounterinfo
+[Info   :     Lethe] Saving battlepass
+[Info   :     Lethe] Saving storytheater-main
+[Info   :     Lethe] Saving storytheater-personality
+[Info   :     Lethe] Saving storytheater-mirrorworld
+[Info   :     Lethe] Saving storytheater-other
+[Info   :     Lethe] Saving storytheater-dantenote
+[Info   :     Lethe] Saving storytheater-dantenote-detail
+[Info   :     Lethe] Saving announcer
+[Info   :     Lethe] Saving mirrordungeon-egogift-droppool
+[Info   :     Lethe] Saving mirrordungeon-battle-reward-case-group
+[Info   :     Lethe] Saving mirrordungeon-generatenodepool
+[Info   :     Lethe] Saving mirrordungeon-theme-floor
+[Info   :     Lethe] Saving greeting-sentenceids
+[Info   :     Lethe] Saving greeting-wordsids
+[Info   :     Lethe] Saving userbannerconfiguration
+[Info   :     Lethe] Saving userbanner
+[Info   :     Lethe] Saving userticketconfiguration
+[Info   :     Lethe] Saving userticket-l
+[Info   :     Lethe] Saving userticket-r
+[Info   :     Lethe] Saving userticket-egobg
+[Info   :     Lethe] Saving require-condition
+[Info   :     Lethe] Saving cutscene
+[Info   :     Lethe] Saving illust-pivots-unitinfo
+[Info   :     Lethe] Saving illust-pivots-battleresult
+[Info   :     Lethe] Saving illust-pivots-vendingmachine
+[Info   :     Lethe] Saving illust-pivots-storytheater
+[Info   :     Lethe] Saving abnormality-part-status-ui-position
+[Info   :     Lethe] Saving season-info
+[Info   :     Lethe] Saving gacha-panning
+[Info   :     Lethe] Saving stage-progress-reward
+[Info   :     Lethe] Saving acquirable-egogifts-in-event
+[Info   :     Lethe] Saving localized-banner
+[Info   :     Lethe] Saving credits-ui
+[Info   :     Lethe] Saving gacksung-panning
+[Info   :     Lethe] Saving thread-dungeon
+[Info   :     Lethe] Saving battle-thread-dungeon
+[Info   :     Lethe] Saving exp-dungeon
+[Info   :     Lethe] Saving battle-exp-dungeon
+[Info   :     Lethe] Saving railway-dungeon
+[Info   :     Lethe] Saving battle-railway-dungeon
+[Info   :     Lethe] Saving reward-dungeon
+[Info   :     Lethe] Saving dungeon-common
+[Info   :     Lethe] Saving attendance-rewards
+[Info   :     Lethe] Saving main-event
+[Info   :     Lethe] Saving story-mirror-dungeon
+[Info   :     Lethe] Saving story-mirror-dungeon-acquire-cost-in-battle
+[Info   :     Lethe] Saving hells-chicken-event
+[Info   :     Lethe] Saving story-mirror-dungeon-egogift-droppool
+[Info   :     Lethe] Saving story-mirror-dungeon-generatenodepool
+[Info   :     Lethe] Saving story-mirror-dungeon-encounterinfo
+[Info   :     Lethe] Saving subchapter-detail
+[Info   :     Lethe] Saving daily-login-event
+[Info   :     Lethe] Saving open-story-by-date
+[Info   :     Lethe] Saving control-code
+[Info   :     Lethe] Saving main-stage-map-setting
+[Info   :     Lethe] Saving story-dungeon-map-illust
+[Info   :     Lethe] Saving restrict-participation
+[Info   :     Lethe] Saving restrict-participation-dungeon
+[Info   :     Lethe] Saving mirrordungeon-start-buffs
+[Info   :     Lethe] Saving mirrordungeon-acquire-cost-in-battle
+[Info   :     Lethe] Saving event
+[Info   :     Lethe] Saving railway-dungeon-buff
+[Info   :     Lethe] Saving shortcut-key
+[Info   :     Lethe] Saving newly-updated-content
+[Info   :     Lethe] Saving ego-empty
+[Info   :     Lethe] Saving ui-excution-priority
+[Info   :     Lethe] Saving story-auto-change-model
+[Info   :     Lethe] Saving story-dungeon-map-text
+[Info   :     Lethe] Saving mirror-dungeon-common-data
+[Info   :     Lethe] Saving unlockcode
+[Info   :     Lethe] Saving event-mission
+[Info   :     Lethe] Saving mission
+[Info   :     Lethe] Saving mission-condition
+[Info   :     Lethe] Saving season-filter
+[Info   :     Lethe] Saving scenario-asset
+[Info   :     Lethe] Saving dante-ability
+[Info   :     Lethe] Saving levelnumber-adjust
+[Info   :     Lethe] Saving loading-cg-exception
+[Info   :     Lethe] Saving guide-ui
+[Info   :     Lethe] Saving buff-by-formation
+[Info   :     Lethe] Saving personality-voice
+[Info   :     Lethe] Saving battleqliphoth-ui
+[Info   :     Lethe] Saving battleordealacttypo-ui
+[Info   :     Lethe] Saving story-mirror-dungeon-common-data
+[Info   :     Lethe] SCENE: Main
+[Info   :     Lethe] Dumping static data
+[Info   :     Lethe] Dumping abnormality-event
+[Info   :     Lethe] Dumping assistant
+[Info   :     Lethe] Dumping abnormality-part
+[Info   :     Lethe] Dumping abnormality-unit
+[Info   :     Lethe] Dumping banner
+[Info   :     Lethe] Dumping buff
+[Info   :     Lethe] Dumping panic-buff
+[Info   :     Lethe] Dumping faction-buff
+[Info   :     Lethe] Dumping part
+[Info   :     Lethe] Dumping character
+[Info   :     Lethe] Dumping common-data
+[Info   :     Lethe] Dumping ego
+[Info   :     Lethe] Dumping ego-gift
+[Info   :     Lethe] Dumping ego-gift-mirrordungeon
+[Info   :     Lethe] Dumping enemy
+[Info   :     Lethe] Dumping gacha
+[Info   :     Lethe] Dumping item
+[Info   :     Lethe] Dumping passive
+[Info   :     Lethe] Dumping personality-passive
+[Info   :     Lethe] Dumping personality
+[Info   :     Lethe] Dumping skill
+[Info   :     Lethe] Dumping battle-story
+[Info   :     Lethe] Dumping battle-dungeon
+[Info   :     Lethe] Dumping battle-ab
+[Info   :     Lethe] Dumping battle-mirrordungeon
+[Info   :     Lethe] Dumping stagenodereward
+[Info   :     Lethe] Dumping story
+[Info   :     Lethe] Dumping dungeon
+[Info   :     Lethe] Dumping team-position
+[Info   :     Lethe] Dumping vending-machine
+[Info   :     Lethe] Dumping chance
+[Info   :     Lethe] Dumping iap-pricetier
+[Info   :     Lethe] Dumping iap-product
+[Info   :     Lethe] Dumping ig-product
+[Info   :     Lethe] Dumping paidshop-ui
+[Info   :     Lethe] Dumping return-policy-table
+[Info   :     Lethe] Dumping ui
+[Info   :     Lethe] Dumping dungeonMap
+[Info   :     Lethe] Dumping dungeonEvent
+[Info   :     Lethe] Dumping mirrordungeon
+[Info   :     Lethe] Dumping mirrordungeon-encounterinfo
+[Info   :     Lethe] Dumping mirrordungeon-global-encounterinfo
+[Info   :     Lethe] Dumping battlepass
+[Info   :     Lethe] Dumping storytheater-main
+[Info   :     Lethe] Dumping storytheater-personality
+[Info   :     Lethe] Dumping storytheater-mirrorworld
+[Info   :     Lethe] Dumping storytheater-other
+[Info   :     Lethe] Dumping storytheater-dantenote
+[Info   :     Lethe] Dumping storytheater-dantenote-detail
+[Info   :     Lethe] Dumping announcer
+[Info   :     Lethe] Dumping mirrordungeon-egogift-droppool
+[Info   :     Lethe] Dumping mirrordungeon-battle-reward-case-group
+[Info   :     Lethe] Dumping mirrordungeon-generatenodepool
+[Info   :     Lethe] Dumping mirrordungeon-theme-floor
+[Info   :     Lethe] Dumping greeting-sentenceids
+[Info   :     Lethe] Dumping greeting-wordsids
+[Info   :     Lethe] Dumping userbannerconfiguration
+[Info   :     Lethe] Dumping userbanner
+[Info   :     Lethe] Dumping userticketconfiguration
+[Info   :     Lethe] Dumping userticket-l
+[Info   :     Lethe] Dumping userticket-r
+[Info   :     Lethe] Dumping userticket-egobg
+[Info   :     Lethe] Dumping require-condition
+[Info   :     Lethe] Dumping cutscene
+[Info   :     Lethe] Dumping illust-pivots-unitinfo
+[Info   :     Lethe] Dumping illust-pivots-battleresult
+[Info   :     Lethe] Dumping illust-pivots-vendingmachine
+[Info   :     Lethe] Dumping illust-pivots-storytheater
+[Info   :     Lethe] Dumping abnormality-part-status-ui-position
+[Info   :     Lethe] Dumping season-info
+[Info   :     Lethe] Dumping gacha-panning
+[Info   :     Lethe] Dumping stage-progress-reward
+[Info   :     Lethe] Dumping acquirable-egogifts-in-event
+[Info   :     Lethe] Dumping localized-banner
+[Info   :     Lethe] Dumping credits-ui
+[Info   :     Lethe] Dumping gacksung-panning
+[Info   :     Lethe] Dumping thread-dungeon
+[Info   :     Lethe] Dumping battle-thread-dungeon
+[Info   :     Lethe] Dumping exp-dungeon
+[Info   :     Lethe] Dumping battle-exp-dungeon
+[Info   :     Lethe] Dumping railway-dungeon
+[Info   :     Lethe] Dumping battle-railway-dungeon
+[Info   :     Lethe] Dumping reward-dungeon
+[Info   :     Lethe] Dumping dungeon-common
+[Info   :     Lethe] Dumping attendance-rewards
+[Info   :     Lethe] Dumping main-event
+[Info   :     Lethe] Dumping story-mirror-dungeon
+[Info   :     Lethe] Dumping story-mirror-dungeon-acquire-cost-in-battle
+[Info   :     Lethe] Dumping hells-chicken-event
+[Info   :     Lethe] Dumping story-mirror-dungeon-egogift-droppool
+[Info   :     Lethe] Dumping story-mirror-dungeon-generatenodepool
+[Info   :     Lethe] Dumping story-mirror-dungeon-encounterinfo
+[Info   :     Lethe] Dumping subchapter-detail
+[Info   :     Lethe] Dumping daily-login-event
+[Info   :     Lethe] Dumping open-story-by-date
+[Info   :     Lethe] Dumping control-code
+[Info   :     Lethe] Dumping main-stage-map-setting
+[Info   :     Lethe] Dumping story-dungeon-map-illust
+[Info   :     Lethe] Dumping restrict-participation
+[Info   :     Lethe] Dumping restrict-participation-dungeon
+[Info   :     Lethe] Dumping mirrordungeon-start-buffs
+[Info   :     Lethe] Dumping mirrordungeon-acquire-cost-in-battle
+[Info   :     Lethe] Dumping event
+[Info   :     Lethe] Dumping railway-dungeon-buff
+[Info   :     Lethe] Dumping shortcut-key
+[Info   :     Lethe] Dumping newly-updated-content
+[Info   :     Lethe] Dumping ego-empty
+[Info   :     Lethe] Dumping ui-excution-priority
+[Info   :     Lethe] Dumping story-auto-change-model
+[Info   :     Lethe] Dumping story-dungeon-map-text
+[Info   :     Lethe] Dumping mirror-dungeon-common-data
+[Info   :     Lethe] Dumping unlockcode
+[Info   :     Lethe] Dumping event-mission
+[Info   :     Lethe] Dumping mission
+[Info   :     Lethe] Dumping mission-condition
+[Info   :     Lethe] Dumping season-filter
+[Info   :     Lethe] Dumping scenario-asset
+[Info   :     Lethe] Dumping dante-ability
+[Info   :     Lethe] Dumping levelnumber-adjust
+[Info   :     Lethe] Dumping loading-cg-exception
+[Info   :     Lethe] Dumping guide-ui
+[Info   :     Lethe] Dumping buff-by-formation
+[Info   :     Lethe] Dumping personality-voice
+[Info   :     Lethe] Dumping battleqliphoth-ui
+[Info   :     Lethe] Dumping battleordealacttypo-ui
+[Info   :     Lethe] Dumping story-mirror-dungeon-common-data
+[Warning:     Lethe] C:\Users\aieta\AppData\Roaming\..\LocalLow\ProjectMoon\LimbusCompany\synchronous-data_product.json
+[Info   :     Lethe] Cleaning up assets
+[Info   :     Lethe] Restoring sound...
