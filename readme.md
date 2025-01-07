@@ -25,5 +25,9 @@ tbd yk how it is
 ## External Links
 
 [Lethe Install guide](https://lethelc.site/install)
+
 [Lethe Mod Creation guide](https://lethelc.site/guide)
+
+[External Mod Creation guide](https://lethelc.site/guide/code)
+
 [Limbus Company Modding Server](https://discord.gg/TKtrEeMGKc)
